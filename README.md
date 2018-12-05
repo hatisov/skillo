@@ -2,9 +2,10 @@
 
 Steps to follow:
 
-1. git pull
-2. git checkout -b [name_of_your_branch]
-3. git add .
-4. git commit -m "commit_message"
-5. git push -upstream origin [name_of_your_branch]
-6. Create Pull request in GitHub from your Branch to Master
+1. git fetch
+2. git pull --rebase
+3. git checkout -b [name_of_your_branch]
+4. git add .
+5. git commit -m "commit_message"
+6. git push -upstream origin [name_of_your_branch]
+7. Create Pull request in GitHub from your Branch to Master
