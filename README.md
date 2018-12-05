@@ -1,4 +1,4 @@
-# skillo Working with Git
+# skillo - Working with Git
 
 Steps to follow:
 
